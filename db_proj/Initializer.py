@@ -12,4 +12,4 @@ conn.executescript(schema_script)
 conn.commit()
 conn.close()
 
-print("✅ Database initialized successfully!")
+print("Database initialized successfully!")
